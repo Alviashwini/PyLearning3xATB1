@@ -1,6 +1,3 @@
 print("hello world")
-print(3*9)
-print(3+9)
-print(3/9)
-
-
+print("hi, my name is ashwini", " peteti")
+print("hi, my name is ashwini", " peteti", sep=" - ")
