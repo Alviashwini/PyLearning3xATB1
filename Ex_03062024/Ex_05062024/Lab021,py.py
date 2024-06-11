@@ -14,7 +14,7 @@ print(shopping_list)
 shopping_list.insert(3, "jam")
 print(shopping_list)
 # extend means add multiple items in the end
-shopping_list.extend(["salt" ,"chips"])
+shopping_list.extend(["salt", "chips"])
 print(shopping_list)
 shopping_list.remove("bread")
 print(shopping_list.pop())
